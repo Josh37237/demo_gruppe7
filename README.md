@@ -42,8 +42,8 @@ Im Fokus stehen:
 - Deployment-Strategien mit *Phasing, Feature Flags & Rollback*
 
 **Projektressourcen:**
-- 📄 [Dokumentation (Pages)](https://hslu-exercise.github.io/scope-your-project-gruppe_7)
-- 📘 [GitHub Wiki](https://github.com/HSLU-Exercise/scope-your-project-gruppe_7/wiki)
+- 📄 [Dokumentation (Pages)](https://josh37237.github.io/demo-17-11-25/)
+- 📘 [GitHub Wiki](https://github.com/josh37237/demo-17-11-25/wiki)
 - 🧾 [CHANGELOG.md](./CHANGELOG.md)
 
 ---
