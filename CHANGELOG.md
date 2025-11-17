@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/Josh37237/demo-17-11-25/compare/v1.1.0...v1.2.0) (2025-11-17)
+
+
+### Features
+
+* Werbebanner // Phased Deployment ([7537d73](https://github.com/Josh37237/demo-17-11-25/commit/7537d73000446bb914d3e616928fb1288f8f62c4))
+
 ## [1.1.0](https://github.com/Josh37237/demo-17-11-25/compare/v1.0.1...v1.1.0) (2025-11-17)
 
 
