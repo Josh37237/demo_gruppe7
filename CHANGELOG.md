@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/Josh37237/demo-17-11-25/compare/v1.2.0...v2.0.0) (2025-11-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* Major Change // Neues Webseiten Design
+
+### Features
+
+* Major Change // Neues Webseiten Design ([985c40d](https://github.com/Josh37237/demo-17-11-25/commit/985c40d031d20c7f2947b169f9a1fee0ba8e67b6))
+
 ## [1.1.0](https://github.com/Josh37237/demo-17-11-25/compare/v1.0.1...v1.1.0) (2025-11-17)
 
 
